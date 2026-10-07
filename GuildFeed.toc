@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: GuildFeed
+## Notes: A social feed for your guild. Auto-posts your dings and epic loot, lets you post updates, like, and follow. Proof of concept.
+## Author: Abe
+## Version: 0.5.0
+## SavedVariables: GuildFeedDB
+
+core.lua
+data.lua
+comms.lua
+events.lua
+ui.lua
+options.lua
